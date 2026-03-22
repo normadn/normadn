@@ -1,4 +1,4 @@
-<h1 align="left">GM 👋, I'm Norman</h1>
+<h1 align="left">GM</h1>
 
 <!--
 **normadn/normadn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
